@@ -10,6 +10,8 @@
 [![RAG](https://img.shields.io/badge/RAG-TF--IDF%20Memory-purple)]()
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)]()
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fb7afdc4-3409-4566-8fc2-ce304b4e5b49" />
+
 </div>
 
 ---
