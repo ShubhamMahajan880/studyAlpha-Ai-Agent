@@ -47,6 +47,8 @@ Traditional AI tools simply **answer questions** — they don’t:
 - predicts weaknesses using ML  
 - adjusts future study sessions automatically  
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8c525cac-eaca-480c-914c-b6e0db5f0eb5" />
+
 ---
 
 # 🤖 Why I Used Agents  
@@ -70,6 +72,9 @@ No single LLM call can manage this entire workflow.
 - 🔹 **Extensibility** — new agents or tools can be added easily  
 
 📘 StudyAlpha behaves like a **real human tutor** — thoughtful, adaptive, and aware of past performance.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/995fca32-8271-4053-9706-28e5c51efb33" />
+
 
 ---
 
@@ -162,6 +167,9 @@ A simple interface to:
 - see analytics  
 - visualize performance  
 
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6323c1bc-fe13-460d-88b9-fbf21dfc1bff" />
+
 ---
 
 # 🔄 Architecture Summary  
@@ -173,7 +181,9 @@ Plan → Quiz → Evaluate → Predict Weakness → Revise → Store Memory → 
 ---
 
 # 🖼️ Architecture Diagram  
-*(Place your diagram here)*
+
+
+<img width="637" height="951" alt="image" src="https://github.com/user-attachments/assets/751f89e4-9fe6-4895-bc49-d99ecc47067e" />
 
 ---
 
@@ -191,6 +201,8 @@ The notebook demonstrates a **full 7-day learning simulation**:
 - time allocation charts  
 - exported reports  
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5f8f5439-876d-4109-a838-a4c220fbf839" />
+
 ---
 
 # 📅 Study Plan Example  
@@ -203,7 +215,19 @@ For topics:
 
 The planner builds a **7-day optimized schedule**.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1c130314-8bfd-4aa7-83f5-bcd7fc52ac63" />
+
 ---
+
+
+## 🔄 2) WORKFLOW DIAGRAM  
+> *(Insert your workflow diagram image below — drag & drop into GitHub editor and replace the link)*
+
+<img width="379" height="949" alt="image" src="https://github.com/user-attachments/assets/59a3d84b-b45a-444f-bf8b-143d37e1c04c" />
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e3b67a7a-a0ab-465a-9484-005362a0c296" />
+
+
 
 # 📝 Quiz Generation  
 
@@ -211,6 +235,7 @@ Example for topic **DP**:
 
 - 3 conceptual MCQs  
 - Memory-aware grounding  
+
 
 ---
 
@@ -221,6 +246,8 @@ Logs include:
 - correct / incorrect  
 - explanations  
 - topic-wise accuracy  
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e993ed25-54ce-4905-b464-7fff10529a9c" />
 
 ---
 
@@ -323,6 +350,8 @@ This system combines:
 - structured planning  
 
 Perfectly aligned with the goals of the **Google × Kaggle Agents Intensive Capstone**.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d1a4328f-52d2-4ceb-9c5e-6e10f7c70e4f" />
 
 ---
 
