@@ -78,10 +78,12 @@ No single LLM call can manage this entire workflow.
 
 ---
 
-🌐 Live Demo
-🔗 Live Application:
+🌐 Deployment
+Platform: Streamlit Cloud
+Entry file: app.py
+Auto-deploy: On every push to main
+🔗 Live App:
 https://studyalpha-ai-agent-muwkpf3edkao3iva87sxgp.streamlit.app
----
 
 
 # 🏗️ Architecture Overview  
