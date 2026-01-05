@@ -78,6 +78,12 @@ No single LLM call can manage this entire workflow.
 
 ---
 
+🌐 Live Demo
+🔗 Live Application:
+https://studyalpha-ai-agent-muwkpf3edkao3iva87sxgp.streamlit.app
+---
+
+
 # 🏗️ Architecture Overview  
 
 StudyAlpha is a **multi-agent learning ecosystem** orchestrated by a central StudyOrchestrator.
